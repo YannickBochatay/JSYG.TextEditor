@@ -1,6 +1,6 @@
 {
   "name": "jsyg-texteditor",
-  "version": "0.0.",
+  "version": "0.0.6",
   "description": "svg text editor with JSYG framework",
   "main": "JSYG.TextEditor.js",
   "directories": {
