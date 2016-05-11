@@ -1,5 +1,6 @@
 # JSYG.TextEditor
-svg text editor (JSYG framework)
+svg text editor with [JSYG framework](https://github.com/YannickBochatay/JSYG).
+It's a brick of [JSYG.FullEditor](https://github.com/YannickBochatay/JSYG.FullEditor), a full svg editor API.
 
 ### Demo
 [http://yannickbochatay.github.io/JSYG.TextEditor/](http://yannickbochatay.github.io/JSYG.TextEditor/)
