@@ -1,0 +1,33 @@
+{
+  "name": "jsyg-texteditor",
+  "version": "0.0.5",
+  "description": "svg text editor with JSYG framework",
+  "main": "JSYG.TextEditor.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YannickBochatay/JSYG.TextEditor.git"
+  },
+  "keywords": [
+    "svg",
+    "jquery",
+    "javascript",
+    "library"
+  ],
+  "author": "Yannick Bochatay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YannickBochatay/JSYG.TextEditor/issues"
+  },
+  "homepage": "https://github.com/YannickBochatay/JSYG.TextEditor#readme",
+  "dependencies": {
+    "jsyg":"",
+    "jsyg-color":"",
+    "jsyg-boundingbox":""
+  }
+}
