@@ -1,6 +1,6 @@
 {
   "name": "jsyg-texteditor",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "svg text editor with JSYG framework",
   "main": "JSYG.TextEditor.js",
   "directories": {
@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/YannickBochatay/JSYG.TextEditor#readme",
   "dependencies": {
-    "jsyg":"",
-    "jsyg-color":"",
-    "jsyg-boundingbox":""
+    "jsyg": "^1.0.2",
+    "jsyg-boundingbox": "^1.0.0",
+    "jsyg-color": "^1.0.0"
   }
 }

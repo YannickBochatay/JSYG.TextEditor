@@ -10,7 +10,7 @@ It's a brick of [JSYG.FullEditor](https://github.com/YannickBochatay/JSYG.FullEd
 npm install jsyg-texteditor
 ```
 
-### Example with webpack/babel
+### Example with module bundler
 ```javascript
 import TextEditor from "jsyg-texteditor"
 import $ from "jquery"
